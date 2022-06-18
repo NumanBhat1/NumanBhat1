@@ -4,7 +4,7 @@
 
 - <b>Python(proj)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!] (https://github.com)
+  - [Hello World!](https://github.com)
 - <b>PowerShell</b>
   - [Active directory Home Lab](https://github.com/joshmadakor1/Sentinel-Lab)
 
