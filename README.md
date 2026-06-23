@@ -4,7 +4,7 @@
 
 <p align="center">
 B.Tech graduate from NIT Srinagar moving into cybersecurity. Studying for CompTIA Security+ and<br>
-spending my time on hands-on labs, TryHackMe, and small Python tools.
+spending my time on hands-on labs, HackTheBox, and small Python tools.
 </p>
 
 <p align="center">
