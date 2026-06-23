@@ -1,40 +1,40 @@
-<h1>Hi, I'm Numan! <br/><a href="https://github.com/NumanBhat1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>
+# Hi, I'm Numan
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+I'm a B.Tech graduate from NIT Srinagar moving into cybersecurity, aiming for a
+SOC / blue team role. Right now I'm studying for CompTIA Security+ and spending
+my time on hands-on labs, TryHackMe, and small Python tools instead of just
+watching courses.
 
-- <b>Python(proj)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com)
-- <b>PowerShell</b>
-  - [Active directory Home Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+This is where I keep the things I build and break while learning. Most of it is
+work in progress — that's the point.
 
-<h2>Certifications</h2>
+- 📍 Srinagar, Kashmir
+- 📫 numkhalid@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/numan-bhat-075041241/)
 
-- [nothing](https://www.youtube.com/)
+---
 
-<h2> 🤳 Connect with me:</h2>
+### What I'm working with
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Linux · Python · Splunk · Wireshark · Nmap · Sysmon · Windows / Active Directory
 
-[twitter]: https://twitter.com/OoSubscribe
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+Still learning all of it — some more than others.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Certifications
 
-Here are some ideas to get you started:
+- IBM Cybersecurity Analyst Professional Certificate
+- CompTIA Security+ (SY0-701) — currently studying
+- CS50's Introduction to Cybersecurity (HarvardX, edX) — in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+- **[python-security-tools](https://github.com/NumanBhat1/python-security-tools)** — a few small SOC scripts: a brute-force log parser, an IP reputation checker, a file hash/VirusTotal lookup, a password strength checker, and a phishing email analyzer.
+- **soc-detection-lab** — a home lab where I send Windows/Sysmon logs into Splunk and write detections for simulated attacks. *(building this now)*
+- **tryhackme-writeups** — notes and walkthroughs from the rooms I work through. *(adding as I go)*
+
+---
+
+If you're hiring for entry-level SOC or security work, or just want to compare
+notes while learning, feel free to reach out.
