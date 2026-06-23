@@ -8,8 +8,8 @@ spending my time on hands-on labs, TryHackMe, and small Python tools.
 </p>
 
 <p align="center">
-Srinagar, Kashmir &nbsp;|&nbsp; numkhalid@gmail.com &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/numan-bhat-075041241/">LinkedIn</a>
+📍 Srinagar, Kashmir &nbsp;|&nbsp; 📧 numkhalid@gmail.com &nbsp;|&nbsp;
+🔗 <a href="https://www.linkedin.com/in/numan-bhat-075041241/">LinkedIn</a>
 </p>
 
 ---
