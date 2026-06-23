@@ -38,6 +38,9 @@ A few small SOC scripts: a brute-force log parser, an IP reputation checker, a f
 ### • [linux-security-scripts](https://github.com/NumanBhat1/linux-security-scripts)
 Bash scripts for common Linux security tasks: failed-login analysis, a system hardening checker, and tamper-evident log backups.
 
+### • [cybersecurity-notes](https://github.com/NumanBhat1/cybersecurity-notes)
+My study notes and cheatsheets: networking, Linux log analysis, Windows event IDs, Splunk SPL, and MITRE ATT&CK.
+
 ### • [hackthebox-writeups](https://github.com/NumanBhat1/hackthebox-writeups)
 My walkthroughs of HackTheBox Starting Point and retired machines: enumeration, access, and what I learned.
 
