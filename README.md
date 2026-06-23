@@ -32,13 +32,13 @@ Still learning all of it, some more than others.
 
 ## Projects
 
-### [python-security-tools](https://github.com/NumanBhat1/python-security-tools)
+### • [python-security-tools](https://github.com/NumanBhat1/python-security-tools)
 A few small SOC scripts: a brute-force log parser, an IP reputation checker, a file hash / VirusTotal lookup, a password strength checker, and a phishing email analyzer.
 
-### soc-detection-lab &nbsp;*(building this now)*
+### • soc-detection-lab &nbsp;*(building this now)*
 A home lab where I send Windows / Sysmon logs into Splunk and write detections for simulated attacks.
 
-### tryhackme-writeups &nbsp;*(adding as I go)*
+### • tryhackme-writeups &nbsp;*(adding as I go)*
 Notes and walkthroughs from the rooms I work through.
 
 ---
