@@ -24,6 +24,9 @@
 | Certification | Issuer | Verify |
 |---|---|---|
 | **CompTIA Security+ (SY0-701)** | CompTIA | [Credly](https://www.credly.com/users/numanbhat) |
+| **IBM Cybersecurity Analyst Professional Certificate** | IBM (Coursera) | [Verify](https://coursera.org/verify/professional-cert/G43G3JBGEYNZ) |
+
+<sub>*IBM Cybersecurity Analyst (8-course Professional Certificate) covered: cybersecurity tools & cyberattacks, roles/processes & OS security, compliance frameworks & system administration, network security & database vulnerabilities, **penetration testing, incident response & forensics**, **cyber threat intelligence**, SIEM & data/endpoint protection, and a hands-on breach-response capstone.*</sub>
 
 ---
 
@@ -58,6 +61,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Concepts:** Networking (TCP/IP) · Cryptography & PKI · IAM · Firewalls / IDS-IPS · Risk Management · Security Compliance
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NumanBhat1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumanBhat1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+</p>
 
 ---
 
