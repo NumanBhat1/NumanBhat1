@@ -13,7 +13,7 @@
 
 - 🎓 Final-year **B.Tech** student at **NIT Srinagar**, focused on **security operations & blue-team defense**.
 - 🔐 **CompTIA Security+ (SY0-701) certified** : passed first attempt. [Verify on Credly »](https://www.credly.com/users/numanbhat)
-- 🧪 I learn by building: home **SOC detection lab**, **Python security tooling**, **Linux hardening scripts**, and **HackTheBox** write-ups.
+- 🧪 I learn by building: **Python security tooling**, **Linux hardening scripts**, and **HackTheBox** writeups (a home SOC detection lab is in progress).
 - 🎯 Seeking **entry-level SOC Analyst / Cybersecurity Analyst** roles : **open to relocate (India or abroad)**.
 - 📫 Reach me: **numkhalid@gmail.com**
 
@@ -34,7 +34,7 @@
 
 | Project | What it is |
 |---|---|
-| 🖥️ **[soc-detection-lab](https://github.com/NumanBhat1/soc-detection-lab)** | Home SOC lab — log collection, alerting, and detection of simulated attacks (detect → analyze → respond). |
+| 🖥️ **SOC Detection Lab** *(in progress)* | Building a home SOC lab for log collection, alerting, and detecting simulated attacks. Writeup coming soon. |
 | 🐍 **[python-security-tools](https://github.com/NumanBhat1/python-security-tools)** | Log parser, IOC reputation checker, file-hash lookup, phishing-header analyzer, password-entropy checker. |
 | 🐧 **[linux-security-scripts](https://github.com/NumanBhat1/linux-security-scripts)** | Bash scripts for Linux hardening & security auditing — automating common blue-team baseline checks. |
 | 📦 **[hackthebox-writeups](https://github.com/NumanBhat1/hackthebox-writeups)** | Documented HTB walkthroughs (Meow, Fawn, Dancing, Redeemer, Explosion, Preignition) — enum → exploit → defense takeaways. |
