@@ -12,9 +12,9 @@
 ### 🛡️ About Me
 
 - 🎓 Final-year **B.Tech** student at **NIT Srinagar**, focused on **security operations & blue-team defense**.
-- 🔐 **CompTIA Security+ (SY0-701) certified** — passed first attempt. [Verify on Credly »](https://www.credly.com/users/numanbhat)
+- 🔐 **CompTIA Security+ (SY0-701) certified** : passed first attempt. [Verify on Credly »](https://www.credly.com/users/numanbhat)
 - 🧪 I learn by building: home **SOC detection lab**, **Python security tooling**, **Linux hardening scripts**, and **HackTheBox** write-ups.
-- 🎯 Seeking **entry-level SOC Analyst / Cybersecurity Analyst** roles — **open to relocate (India or abroad)**.
+- 🎯 Seeking **entry-level SOC Analyst / Cybersecurity Analyst** roles : **open to relocate (India or abroad)**.
 - 📫 Reach me: **numkhalid@gmail.com**
 
 ---
