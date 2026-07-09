@@ -66,7 +66,7 @@
 <p align="center">
   <a href="https://www.credly.com/users/numanbhat"><img src="https://img.shields.io/badge/Credly-Verify%20Cert-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
   <a href="mailto:numkhalid@gmail.com"><img src="https://img.shields.io/badge/Email-numkhalid%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/numankhalidbhat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/numanbhat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <!--
