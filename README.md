@@ -78,10 +78,10 @@ A personal cybersecurity lab built on an Apple Silicon Mac (UTM) and a Windows d
 
 ## 🧪 More of my work
 
-- 🐍 **[python-security-tools](https://github.com/NumanBhat1/python-security-tools)** — scripts for log parsing, IOC checks, hash lookups, and phishing header analysis
-- 🐧 **[linux-security-scripts](https://github.com/NumanBhat1/linux-security-scripts)** — Bash scripts to harden and audit Linux systems
-- 📦 **[hackthebox-writeups](https://github.com/NumanBhat1/hackthebox-writeups)** — enumeration and exploitation writeups with defender takeaways
-- 📝 **[cybersecurity-notes](https://github.com/NumanBhat1/cybersecurity-notes)** — public notes and a full Security+ (SY0-701) study guide
+- 🐍 **[python-security-tools](https://github.com/NumanBhat1/python-security-tools)** : scripts for log parsing, IOC checks, hash lookups, and phishing header analysis
+- 🐧 **[linux-security-scripts](https://github.com/NumanBhat1/linux-security-scripts)** : Bash scripts to harden and audit Linux systems
+- 📦 **[hackthebox-writeups](https://github.com/NumanBhat1/hackthebox-writeups)** : enumeration and exploitation writeups with defender takeaways
+- 📝 **[cybersecurity-notes](https://github.com/NumanBhat1/cybersecurity-notes)** : public notes and a full Security+ (SY0-701) study guide
 
 ---
 
